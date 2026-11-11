@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.venv/
+*.pdf
+*.png
+*.zip
+*.json
+!level-3/colony-one-env/colony_one/scene*.json
+newmodel.onnx
+level-3/colony-one-env/train/data*/
+level-3/colony-one-env/train/*.log
+level-3/colony-one-env/sweep/
+level-3/colony-one-env/friend/
+level-3/colony-one-env/m4_a.onnx
+level-3/colony-one-env/m5.onnx
+level-3/colony-one-env/model_*.onnx
+*.egg-info/
